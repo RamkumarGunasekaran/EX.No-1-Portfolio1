@@ -311,6 +311,9 @@ Color.css
 
 ## OUTPUT
 <img width="1913" height="1078" alt="Screenshot 2025-08-29 161859" src="https://github.com/user-attachments/assets/89affb4b-eb7d-4f54-846b-7dc9d61fff51" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-29 162249" src="https://github.com/user-attachments/assets/0f3e049c-192a-4b9d-91f8-303e541c1c35" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-29 162331" src="https://github.com/user-attachments/assets/36727cf4-5113-4ead-9fc1-b4716a95ab13" />
+<img width="1918" height="1072" alt="Screenshot 2025-08-29 162352" src="https://github.com/user-attachments/assets/823d9b1e-f9bc-4330-adf9-518e7cb3730b" />
 
 
 
